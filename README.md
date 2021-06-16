@@ -1,6 +1,6 @@
 ## Hey there, I'm Bharat!
 
-I am an incoming freshman at UCSB who enjoys developing applications and tools using computer science to solve real-life problems. I specialize in full stack mobile application development using a variety of languages. I also love robotics and am currently a member of FRC Team 3256. 
+I am an incoming freshman at UCSB who enjoys developing applications and tools using computer science to solve real-life problems. I specialize in full stack mobile application development using a variety of languages. I also love learning new tools and technologies, and you can check out my website to see what I'm currently working on.
 
 <a href="https://www.twitter.com/bk1031_official"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://www.instagram.com/bk1031_official"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
